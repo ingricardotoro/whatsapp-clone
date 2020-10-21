@@ -1,3 +1,7 @@
+Proyecto Creado Por Marvin Ricardo Toro
+Inicio 21-Oct-2020
+ReactJs - Firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
