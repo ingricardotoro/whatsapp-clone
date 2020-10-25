@@ -55,3 +55,8 @@
     background-color: white;
     overflow: hidden;
 }
+
+a {
+    text-decoration: none !important;
+    color: black;
+}
